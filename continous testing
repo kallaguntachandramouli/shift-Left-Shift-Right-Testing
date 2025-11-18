@@ -1,0 +1,20 @@
+Continuous Testing is a software testing approach that involves testing throughout the entire software development lifecycle (SDLC), from development to deployment.
+
+Key Principles:
+1.Test Early: test as early as possible in the SDLC.
+2.Test Often: test continuously, with each new build or deployment.
+3.Test Everywhere: test on all platforms, environments, and configurations.
+4.Automate: automate testing wherever possible.
+  
+Continuous Testing Pipeline
+1. Development: developers write code and commit changes
+2. Continuous Integration: code is integrated and built
+3. Automated Testing: automated tests are run, providing feedback to developers
+4. Deployment: application is deployed to production
+5. Monitoring: application is monitored, and feedback is collected
+
+Tools and Technologies- CI/CD Tools: Jenkins. 
+1.Testing Frameworks: JUnit, TestNG, PyUnit.
+2. Automated Testing Tools: Selenium, Appium, Cucumber.
+3. Monitoring Tools: New Relic, Datadog.
+
