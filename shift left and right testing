@@ -1,0 +1,24 @@
+Shift Left Testing:
+Shift Left Testing involves moving testing activities earlier in the software development lifecycle (SDLC), closer to the development phase.
+The Goals are:
+    1. Catch defects earlier, reducing costs and improving quality
+    2.Improve collaboration between developers and testers
+    3. Reduce testing time and effort
+The Activities of the left testing :
+    1. Unit testing
+    2. Integration testing
+    3. Continuous Integration (CI)
+    4. Automated testing
+
+Shift Right Testing : 
+Shift Right Testing involves moving testing activities later in the SDLC, closer to production.
+The Goals:
+    1. Validate the application's behavior in production-like environments
+    2. Catch issues that arise from complex interactions and real-world usage
+    3. Improve the overall quality and reliability of the application
+The Activities of shift right testing :
+    1. End-to-end testing
+    2. User Acceptance Testing (UAT)
+    3. Performance testing
+    4. Exploratory testing
+    5. Monitoring and feedback
